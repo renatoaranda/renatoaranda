@@ -1,5 +1,30 @@
-### Hi there 👋
+### Hello World! - @renatoAranda 👋
 
+<div align="center">
+  <a href="https://github.com/renatoaranda">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatoaranda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoaranda&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+##
+  <div style="display: inline_block" align="center"><br>  
+    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />    
+    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />    
+    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
+    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />          
+    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" />
+    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+  </div>
+
+##
+<div align="left">
+  <img src="https://img.shields.io/twitter/url?label=renatoaranda&style=social&url=https%3A%2F%2Ftwitter.com%2Frenatoaranda" />
+</div>
 <!--
 **renatoaranda/renatoaranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
