@@ -1,10 +1,6 @@
 ### Hello World! - @renatoAranda 👋
 
-<div align="center">
-  <a href="https://github.com/renatoaranda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatoaranda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoaranda&layout=compact&langs_count=7&theme=dark"/>
-</div>
+Software engineer
   
 ##
   <div style="display: inline_block" align="center"><br>  
